@@ -4,7 +4,7 @@
 
 Crafting minds for Minecraft with Language Models and Mineflayer!
 
-I copied these features(copied the code to a original copy of mindcraft) from these contrubuters:
+I copied these features(copied the code to an original copy of Mindcraft) from these contributors:
 
 Groq support: https://github.com/kolbytn/mindcraft/pull/115
 Huggingface support: https://github.com/kolbytn/mindcraft/pull/193
